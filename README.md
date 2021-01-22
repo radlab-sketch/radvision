@@ -9,7 +9,7 @@ Pramod Abichandani
 
 <img src = "images/robot_events.png" width = 400>
 
-This paper has been submitted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence.
+This paper has been submitted for review in IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 ## Abstract
 
@@ -67,4 +67,4 @@ use and modify the code, without warranty, so long as you provide attribution
 to the authors. See `LICENSE.md` for the full license text.
 
 The manuscript text is not open source. The authors reserve the rights to the
-article content, which is currently submitted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence.
+article content, which is currently submitted for review in IEEE Transactions on Pattern Analysis and Machine Intelligence.
